@@ -1,2 +1,3 @@
 "file2 data" 
 "file2 data version2" 
+"file version3" 
